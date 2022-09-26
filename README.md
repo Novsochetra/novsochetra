@@ -27,6 +27,8 @@
 </a>
 </p>
 
+<a href="https://app.daily.dev/sochetra_nov"><img src="https://api.daily.dev/devcards/126fa27729b04035a78c7b869b872eb5.png?r=05a" width="200" alt="sochetra NOV's Dev Card"/></a>
+
 
 ## 📘 My top open source projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
