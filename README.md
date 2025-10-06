@@ -41,7 +41,14 @@
 <p align="left">
   <a href="https://github.com/Novsochetra/ReactNativeShowCaseApp">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novsochetra&repo=ReactNativeShowCaseApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" >
-    </a><a href="https://github.com/Novsochetra/nvim">
+    </a>
+    <a href="[https://github.com/Novsochetra/https://github.com/Novsochetra/fast-copy](https://github.com/Novsochetra/fast-copy)">
+      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novsochetra&repo=fast-copy&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" >
+    </a>
+    <a href="[https://github.com/Novsochetra/https://github.com/Novsochetra/fast-rm](https://github.com/Novsochetra/fast-rm)">
+      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novsochetra&repo=fast-rm&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" >
+    </a>
+    <a href="https://github.com/Novsochetra/nvim">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novsochetra&repo=nvim&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" >
     </a><a href="https://github.com/Novsochetra/react-native-circular-chart">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=novsochetra&repo=react-native-circular-chart&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" >
